@@ -5,7 +5,7 @@
 //12-10-2019
 
 //declare gloabl variables
-let age = 37; //globally-scoped variable delared outside brackets per req b
+var age = 37; //globally-scoped variable delared outside brackets per req b
 
 //because we want at least one block-scoped variable, opening a bracket
 {
